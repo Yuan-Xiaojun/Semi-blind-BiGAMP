@@ -1,0 +1,5 @@
+
+T =  50, Nt =  20, Nr =  128, K =  6, simLen =    1
+snr =  20  
+Berrbate = 0.000000e+00  
+XMSE =2.547229e-12  
